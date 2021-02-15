@@ -2,6 +2,5 @@
 
 ```
 cd ~
-git clone https://github.com/flat35hd99/dotfile.git
-cp dotfile/.vimrc ./
+curl https://raw.githubusercontent.com/flat35hd99/dotfile/master/.vimrc > .vimrc
 ```
